@@ -4,6 +4,8 @@ This repo is a collection of scripts and notebooks to download, merge and analyz
 
 We also process, split and build a classification model to predict wether a vessel encounter is authorized, partially authorized or not authorized.
 
+![Worldwide fishing activities](WorldMap.png)
+
 ## Installation
 
 Create an account and download all the `Carriers v*` zips from [GlobalFishingWatch](https://globalfishingwatch.org/data-download/) into a folder called `carriers_data` in the root of the repository.
