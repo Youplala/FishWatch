@@ -24,3 +24,6 @@ The `final.csv` file is the one we will use to train our model.
 Figure 1 is a plot showing 100k vessel encounters. As stated above, encounters are Authorizations are either known, partially known or unknown. 
 
 Encounters are locations where two vessels, a fishing and a carrier vessel, were within 500 meters for at least two hours and traveling at a median speed or less than 2 knots, while at least 30km away from a coastal anchorage.
+
+## Models benchmark
+![ROC curves](ROC_curves.png)
